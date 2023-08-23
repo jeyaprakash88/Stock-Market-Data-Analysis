@@ -32,4 +32,6 @@ The main analysis can be found in the Jupyter notebook `Project 01.ipynb`.
 
 ## License
 
-[License details or reference to a LICENSE file]
+This project is licensed under the [MIT License](LICENSE), offering you the freedom to adapt and modify it to suit your unique needs. [Click here](LICENSE) to view the full license.
+
+Explore, adapt, and utilize this project as a launchpad for crafting your own interactive Streamlit dashboards. Here's to illuminating data exploration!
